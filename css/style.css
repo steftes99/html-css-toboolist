@@ -56,6 +56,26 @@
     background-color: #47adf1;
     color: white;
     border: 1px solid #47adf1;
-
-
+}
+.viola{
+    background-color: #9c72e4;
+    color: white;
+    border: 1px solid #9c72e4;
+}
+.x{
+    background-color: #fff;
+    color: #ec574d;
+    border: 1px solid #ec574d;
+    border-radius: 50%;
+    
+}
+.verde{
+    background-color: #64c0a9;
+    color: #fff;
+    border: 1px solid #64c0a9;
+}
+.arancione{
+    background-color: #f29e33;
+    color: #fff;
+    border: 1px solid #f29e33;
 }
