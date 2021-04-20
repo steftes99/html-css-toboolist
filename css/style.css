@@ -5,8 +5,11 @@
     vertical-align: super;
 }
 .container{
-    width: 80%;
+    width: 70%;
     margin: auto;
+}
+.bottoni{
+    margin-top: 50px;
 }
 .bottoneblu{
     width: 100px;
@@ -15,6 +18,7 @@
     color: white;
     border: 1px solid #47adf1;
     border-radius: 10%;
+    cursor: pointer;
 }
 .bottonebianco{
     width: 100px;
@@ -23,6 +27,7 @@
     color: #d4d8dc;
     border: 1px solid #d4d8dc;
     border-radius: 10%;
+    cursor: pointer;
 
 }
 .selettore{
@@ -78,4 +83,14 @@
     background-color: #f29e33;
     color: #fff;
     border: 1px solid #f29e33;
+}
+.rosa{
+    background-color: #d863a1;
+    color: #fff;
+    border: 1px solid #d863a1;
+}
+.giallo{
+    background-color: #b0c926;
+    color: #fff;
+    border: 1px solid #b0c926;
 }
