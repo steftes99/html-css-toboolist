@@ -25,3 +25,37 @@
     border-radius: 10%;
 
 }
+.selettore{
+    font-size: 40px;
+}
+.grassetto{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Hind', sans-serif;
+    margin-bottom: 0;
+}
+.check{
+    background-color: #fff;
+    color: #92d4c4;
+    border: 1px solid #92d4c4;
+    border-radius: 50%;
+    
+}
+.paragrafo{
+    display: inline;
+    margin: 10px;
+    font-size: 25px;
+    vertical-align: middle;
+}
+.lista{
+    width: 80px;
+   height: 30px;
+   border-radius: 22%;
+}
+.blu{
+    background-color: #47adf1;
+    color: white;
+    border: 1px solid #47adf1;
+
+
+}
