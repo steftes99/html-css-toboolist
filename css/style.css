@@ -4,3 +4,24 @@
     font-family: 'Hind', sans-serif;
     vertical-align: super;
 }
+.container{
+    width: 80%;
+    margin: auto;
+}
+.bottoneblu{
+    width: 100px;
+    height: 40px;
+    background-color: #47adf1;
+    color: white;
+    border: 1px solid #47adf1;
+    border-radius: 10%;
+}
+.bottonebianco{
+    width: 100px;
+    height: 40px;
+    background-color: #fff;
+    color: #d4d8dc;
+    border: 1px solid #d4d8dc;
+    border-radius: 10%;
+
+}
